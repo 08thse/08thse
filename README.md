@@ -13,7 +13,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=azure,windows,aws,kubernetes,docker,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=azure,windows,powershell,cs,vscode,aws,kubernetes,docker,linux,md,py,terraform," />
 <!-- ライトモード：theme=light, ダークモード：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 <br>
