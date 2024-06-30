@@ -8,7 +8,7 @@
 ## Hi there 👋
 
 - 🧑‍💻 I'm a infrastructure engineer / solutions architect.
-- 🌱 I’m a Microsoft MVP for Azure (2022-) !
+- 🏆 I’m a Microsoft MVP for Azure (2022-) !
 - 📫 How to reach me: [X - @08thse](https://twitter.com/08thse)
 <br>
 
